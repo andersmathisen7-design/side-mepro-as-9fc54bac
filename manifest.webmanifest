@@ -1,0 +1,25 @@
+{
+  "name": "Mepro. AS",
+  "short_name": "Mepro. AS",
+  "description": "Mepro AS er rørlegger i Steinberg. Ta kontakt på telefon eller e-post når du trenger hjelp med rørleggerarbeid.",
+  "lang": "nb",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#0b4f6c",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    },
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "maskable"
+    }
+  ]
+}
